@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -119,9 +119,460 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: explosion-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b1f648010cd8941bf0e3be5fbe5388
+      internalID: -560449530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 335.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c15eb9dddd3f649a08baaa5b978a79
+      internalID: -617801698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 335.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f143927b8b65a408428f87d2c04894
+      internalID: 1091167458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 335.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d338f6143b33a0448a66c0d127b5eb89
+      internalID: 836747376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 335.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde84e49f68fb345be13998b6369923
+      internalID: 1626066386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84fab5885d090e4e983e46d83c71481
+      internalID: 179237749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 224.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3758a5c0208e5634eb664ff2b4972cc5
+      internalID: -371484312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 224.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dff803f1db58564f85a5cc875622fda
+      internalID: 705800657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 224.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9374216b3abf18941b71320f497cfc36
+      internalID: -158727257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 224.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e30628374737f42a23da7d649d34d2
+      internalID: -1045821996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ec24a1973e954e8b51dcf80496800
+      internalID: 588117104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 113.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8ef824a36c3ab4eb016882eb34bdd6
+      internalID: 772358608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 113.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c2d563ded0c0048b0c4089a0b33432
+      internalID: -418552359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 113.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216cd7e0c2d9add459996532a607d45d
+      internalID: -450030027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 113.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f5e03ce8b075c42b9f7e08f22d5e2f
+      internalID: 892957377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab248d3872d649439238f4ccdf0e79d
+      internalID: 967427012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd2207feee84c419ac8c0eecde4eb8
+      internalID: 509309824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf0e5ccb90bc674ca1a15c63064557a
+      internalID: 1807005000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2.25
+        width: 111.8
+        height: 111.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db8328593f41ae4798f34b81d8f7a62
+      internalID: -164230142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +583,26 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      explosion-removebg-preview_0: -560449530
+      explosion-removebg-preview_1: -617801698
+      explosion-removebg-preview_10: 588117104
+      explosion-removebg-preview_11: 772358608
+      explosion-removebg-preview_12: -418552359
+      explosion-removebg-preview_13: -450030027
+      explosion-removebg-preview_14: 892957377
+      explosion-removebg-preview_15: 967427012
+      explosion-removebg-preview_16: 509309824
+      explosion-removebg-preview_17: 1807005000
+      explosion-removebg-preview_18: -164230142
+      explosion-removebg-preview_2: 1091167458
+      explosion-removebg-preview_3: 836747376
+      explosion-removebg-preview_4: 1626066386
+      explosion-removebg-preview_5: 179237749
+      explosion-removebg-preview_6: -371484312
+      explosion-removebg-preview_7: 705800657
+      explosion-removebg-preview_8: -158727257
+      explosion-removebg-preview_9: -1045821996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
