@@ -23,7 +23,7 @@ public class avanzar : MonoBehaviour
         {
             Destroy(collision.gameObject);
             velocidad = 0;
-            papita.SetTrigger("Paloma");
+            papita.SetTrigger("New Trigger");
             Destroy(gameObject, 1);
             puntos.Aumentar_puntos(1);
         }
